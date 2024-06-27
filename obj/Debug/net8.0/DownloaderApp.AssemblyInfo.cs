@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DownloaderApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+424bd7953509cb6c1d1e6e1ccb0fefdf873318eb")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c0e62055e8ab1beccd8c318bc8a175b92d46bece")]
 [assembly: System.Reflection.AssemblyProductAttribute("DownloaderApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DownloaderApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

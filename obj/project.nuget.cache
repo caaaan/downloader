@@ -1,8 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "B4v99fOEAMA=",
+  "dgSpecHash": "DzG93lek7P4=",
   "success": true,
   "projectFilePath": "/Users/canborcbakan/DownloaderApp/downloader/DownloaderApp.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/canborcbakan/.nuget/packages/microsoft.aspnetcore.spaservices.extensions/8.0.6/microsoft.aspnetcore.spaservices.extensions.8.0.6.nupkg.sha512",
+    "/Users/canborcbakan/.nuget/packages/microsoft.extensions.fileproviders.abstractions/8.0.0/microsoft.extensions.fileproviders.abstractions.8.0.0.nupkg.sha512",
+    "/Users/canborcbakan/.nuget/packages/microsoft.extensions.fileproviders.physical/8.0.0/microsoft.extensions.fileproviders.physical.8.0.0.nupkg.sha512",
+    "/Users/canborcbakan/.nuget/packages/microsoft.extensions.filesystemglobbing/8.0.0/microsoft.extensions.filesystemglobbing.8.0.0.nupkg.sha512",
+    "/Users/canborcbakan/.nuget/packages/microsoft.extensions.primitives/8.0.0/microsoft.extensions.primitives.8.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
