@@ -1,2 +1,2 @@
 # downloader
-an app Im building to improve my .NET and devops knowledge
+a react app I'm building to improve my .NET and DevOps knowledge
