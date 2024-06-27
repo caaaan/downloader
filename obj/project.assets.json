@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/canborcbakan/DownloaderApp/DownloaderApp.csproj",
+      "projectUniqueName": "/Users/canborcbakan/DownloaderApp/downloader/DownloaderApp.csproj",
       "projectName": "DownloaderApp",
-      "projectPath": "/Users/canborcbakan/DownloaderApp/DownloaderApp.csproj",
+      "projectPath": "/Users/canborcbakan/DownloaderApp/downloader/DownloaderApp.csproj",
       "packagesPath": "/Users/canborcbakan/.nuget/packages/",
-      "outputPath": "/Users/canborcbakan/DownloaderApp/obj/",
+      "outputPath": "/Users/canborcbakan/DownloaderApp/downloader/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/canborcbakan/.nuget/NuGet/NuGet.Config"
